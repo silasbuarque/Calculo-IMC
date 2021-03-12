@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#04d361',
     borderRadius: 10,
     paddingVertical: 10,
-    paddingHorizontal: 20,
+    paddingHorizontal: 40,
     marginTop: 80,
   },
   txtBotao:{
